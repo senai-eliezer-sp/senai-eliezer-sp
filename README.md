@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eliezer Souza
+# Eliezer Souza
 
 **``**
 
