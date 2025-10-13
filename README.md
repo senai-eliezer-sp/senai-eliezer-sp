@@ -1,6 +1,10 @@
-👋 Olá, eu sou o Eliezer!
+# 👋 Olá, eu sou o Pedro Lacerda!
 
-**``**
+
+<div aling="center">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=senai-eliezer-sp&show_icons=true&theme=dark"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senai-eliezer-sp&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 Me chamo Eliezer, tenho 17 anos e sou natural de Bauru. Atualmente, estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
