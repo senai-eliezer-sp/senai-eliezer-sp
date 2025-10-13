@@ -66,5 +66,5 @@
 
 ## 📫 CONTATO
 - Github: [Eliezer](github.com/senai-eliezer-sp)
-- Instagram:[Eliezer](instagram.com/eliezeryx)
+- Instagram: [Eliezer](instagram.com/eliezeryx)
 <br/>
