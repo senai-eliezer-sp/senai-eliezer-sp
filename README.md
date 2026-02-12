@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-<b>Me chamo Eliezer, tenho 17 anos e sou natural de Bauru. Atualmente, estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.<b/>
+<b>Me chamo Eliezer, tenho 18 anos e sou natural de Bauru. Atualmente, estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.<b/>
 
 
 ### 🤖 Linguagens e Tecnologias
